@@ -9,5 +9,5 @@ This video is to show that the system can simulate the deceleration process
 
 https://user-images.githubusercontent.com/38242437/176312105-bef695dd-490e-4cae-a9b2-24f01b4e7de6.mp4
 
-# Aurthor
+## Aurthor
 + [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)
