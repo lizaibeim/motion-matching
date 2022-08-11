@@ -6,11 +6,21 @@ The Motion Matching, a next-gen animation technology, is a novel method for gene
 The main objective of the project is to implement the basic functionality of a working Motion Matching system and integrate it into the game [The Bleeding Tree](https://dadiu.itch.io/the-bleeding-tree). The objectives consist of two parts; the first part is in data pre-processing phase building up the motion capture database; and the second part is in run-time phase finding out the best matching clip to play next. During the process of implementing the system, Translate-Rotate-Scale(TRS) affine matrix is used to convert the coordinates, K Nearest Neighbour(KNN) algorithm is used to search the best matching animation clip, and Principal Component Analysis(PCA) method is used to reduce the dimensions of comparing feature.
 
 ## Motion caputre
-Record the mocap data  
-https://user-images.githubusercontent.com/38242437/184043497-81b2e4ae-1a9e-4faa-89b5-9b3076a18fac.mp4
+Record the mocap data
 
-Export as usable animations  
-https://user-images.githubusercontent.com/38242437/184043517-a8669c9e-0e26-4827-ad18-c4b20e65c252.mp4
+
+https://user-images.githubusercontent.com/38242437/184043633-826c4270-9a9b-44ff-953f-899aebf39fe5.mp4
+
+
+
+
+
+Export as usable animations
+
+
+https://user-images.githubusercontent.com/38242437/184043656-f2ae7f75-ad81-4a02-8ca4-a6e89baf1772.mp4
+
+
 
 ## Demo
 This video shows the basic locomotion with using the motion matching system. The left subtitle is the real-time matching results. The right part is the real-time controller’s input. There are two lines in the demonstration. The line which is straighter, and smoother is the predicted trajectory, and the other line is the matched trajectory. Both of these two lines are relative to the characters’ current position and rotation
@@ -29,3 +39,4 @@ https://www.gameanim.com/2016/05/03/motion-matching-ubisofts-honor/
 http://www.ipab.inf.ed.ac.uk/cgvu/deeplearningmotion.html  
 http://grail.cs.washington.edu/projects/motion-fields/  
 https://research.cs.wisc.edu/graphics/Gallery/kovar.vol/MoGraphs/
+http://www.dadiu.dk/
