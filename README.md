@@ -45,6 +45,7 @@ https://user-images.githubusercontent.com/38242437/176312105-bef695dd-490e-4cae-
 + [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)
 
 ## Acknowledgement
+[Nicolas Simonsen](https://www.linkedin.com/in/nicklas-simonsen-443116201/)  
 https://www.gameanim.com/2016/05/03/motion-matching-ubisofts-honor/  
 http://www.ipab.inf.ed.ac.uk/cgvu/deeplearningmotion.html  
 http://grail.cs.washington.edu/projects/motion-fields/  
