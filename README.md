@@ -22,7 +22,17 @@ https://user-images.githubusercontent.com/38242437/184043656-f2ae7f75-ad81-4a02-
 
 
 
-## Motion Matching
+## Motion matching
+### Implementation logic
+- Predicted the real-time future trajectory of the character based on the player’s input and the character’s
+historical movement trajectory
+- Selected predicted future trajectory’s K nearest neighboring animation clips from motion capture database
+based on Frechet distance ´
+- Calculated the cosine similarity between the current character’s pose and the starting pose of the nearest
+neighbouring animation clips
+- Linearly combined the pose cost and trajectory cost and selected the optimal animation clip to transit
+
+### Demo
 This video shows the basic locomotion with using the motion matching system. The left subtitle is the real-time matching results. The right part is the real-time controller’s input. There are two lines in the demonstration. The line which is straighter, and smoother is the predicted trajectory, and the other line is the matched trajectory. Both of these two lines are relative to the characters’ current position and rotation
 
 https://user-images.githubusercontent.com/38242437/176313086-a0fcd9f1-1c2c-4207-9c83-0a30c4fc5ca0.mp4
