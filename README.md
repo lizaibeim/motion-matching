@@ -41,6 +41,9 @@ This video is to show that the system can simulate the deceleration process
 
 https://user-images.githubusercontent.com/38242437/176312105-bef695dd-490e-4cae-a9b2-24f01b4e7de6.mp4
 
+## Author
+[Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)
+
 ## Acknowledgements
 [DADIU](http://www.dadiu.dk/)  
 [Nicolas Simonsen](https://www.linkedin.com/in/nicklas-simonsen-443116201/)  
