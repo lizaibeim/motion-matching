@@ -5,7 +5,7 @@ The [Motion Matching](https://www.gameanim.com/2016/05/03/motion-matching-ubisof
 
 The main objective of this project is to implement the basic functionality of a working Motion Matching system and integrate it into the game [The Bleeding Tree](https://dadiu.itch.io/the-bleeding-tree). The objectives consist of two parts; the first part is in data pre-processing phase building up the motion capture database; and the second part is in run-time phase finding out the best matching clip to play next. During the process of implementing the system, the Translate-Rotate-Scale affine matrix is used to convert the coordinates, the K Nearest Neighbour algorithm is used to narrow down the searching scope within the motion database, and the Principal Component Analysis method is used to reduce the dimensions of the comparing feature.
 
-## Motion caputre
+## Motion Caputre
 Record the mocap data
 
 
@@ -22,8 +22,8 @@ https://user-images.githubusercontent.com/38242437/184043656-f2ae7f75-ad81-4a02-
 
 
 
-## Motion matching
-### Implementation logic
+## Motion Matching
+### Implementation Logic
 - Predicted the real-time future trajectory of the character based on the player’s input and the character’s
 historical movement trajectory
 - Selected predicted future trajectory’s K nearest neighboring animation clips from motion capture database
