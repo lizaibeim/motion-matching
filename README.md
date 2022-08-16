@@ -41,10 +41,7 @@ This video is to show that the system can simulate the deceleration process
 
 https://user-images.githubusercontent.com/38242437/176312105-bef695dd-490e-4cae-a9b2-24f01b4e7de6.mp4
 
-## Aurthor
-+ [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)
-
-## Acknowledgement
+## Acknowledgements
 [DADIU](http://www.dadiu.dk/)  
 [Nicolas Simonsen](https://www.linkedin.com/in/nicklas-simonsen-443116201/)  
 [Ubisoft Motion Matching](https://www.gameanim.com/2016/05/03/motion-matching-ubisofts-honor/)  
