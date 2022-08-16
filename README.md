@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/38242437/176312105-bef695dd-490e-4cae-
 [Zaibei Li](https://www.linkedin.com/in/zaibei-eric-li/)
 
 ## Acknowledgements
-[DADIU](http://www.dadiu.dk/)   
+[DADIU](http://www.dadiu.dk/bleedingtree)  
 [Ubisoft Motion Matching](https://www.gameanim.com/2016/05/03/motion-matching-ubisofts-honor/)  
 [Learned Motion Matching](https://montreal.ubisoft.com/en/introducing-learned-motion-matching/)  
 [Deep Learning Motion](http://www.ipab.inf.ed.ac.uk/cgvu/deeplearningmotion.html)    
